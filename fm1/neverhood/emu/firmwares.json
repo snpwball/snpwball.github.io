@@ -1,0 +1,17 @@
+{
+  "default": "neverhood",
+  "firmwares": [
+    {
+      "id": "neverhood",
+      "name": "Neverhood",
+      "version": "Clay Band · 22 instruments",
+      "author": "FM1 Experiments",
+      "license": "see the instructions",
+      "repo": "../instructions.html",
+      "about": "22 instruments, nine categories, and Klaymen.",
+      "package": "../neverhood.fwsc",
+      "installer": "../",
+      "sha256": "b7a97bc3632f9ce0a5daf83de7a2e5d74f554526df55d54dd79689af07ef4002"
+    }
+  ]
+}
