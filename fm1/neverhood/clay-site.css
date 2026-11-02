@@ -10,7 +10,7 @@ main{max-width:760px;margin:44px auto;padding:0 36px 30px}body{padding-left:264p
 .emu-page main{max-width:none;margin:12px 0;padding:0 12px}.emu-page .menu-title{font-family:Clay,serif!important}.emu-page .menu-item{font-family:Clay,serif!important}.emu-page .deck-head h1,.emu-page h2,.emu-page h3{font-family:Clay,serif!important}.emu-page .wrap{padding-inline:12px}
 /* A single photographed-clay asset supplies the slab, wells and buttons. */
 body{padding-left:208px}
-.clay-menu{left:16px;top:16px;bottom:auto;width:176px;height:min(588px,calc(100dvh - 32px));padding:0;display:block;overflow:visible;border:0;border-radius:0;background:transparent url("site-assets/clay-menu.png") center/100% 100% no-repeat;box-shadow:none}
+.clay-menu{left:16px;top:16px;bottom:auto;width:176px;height:min(588px,calc(100dvh - 32px));padding:0;display:block;overflow:visible;border:0;border-radius:0;background:transparent url("site-assets/clay-menu.webp") center/100% 100% no-repeat;box-shadow:none}
 .clay-menu .menu-title{position:absolute;left:12%;top:5%;width:76%;height:9%;margin:0;padding:0;display:flex;align-items:center;justify-content:center;border:0;border-radius:0;background:none;box-shadow:none;color:#281a10;font-size:25px}
 .clay-menu .menu-item{position:absolute;left:12%;width:76%;height:14%;min-height:0;margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none;display:flex;align-items:center;justify-content:center;font-size:14px;line-height:1.25;color:#2c1c10}
 .clay-menu .menu-item:nth-child(2){top:20%}.clay-menu .menu-item:nth-child(3){top:40%}.clay-menu .menu-item:nth-child(4){top:60%}.clay-menu .menu-item:nth-child(5){top:79%}
